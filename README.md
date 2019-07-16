@@ -13,6 +13,6 @@ The program was built to open files in a format (.bin) - dump by "e3 flasher"
 
 The program was modified with a slight change in the Design, and the source code to open files in a format (.hex), dump by Hen tools 
 
-use [PS3 IDPS Dumper] to DUMP your IDPS (http://ps3xploit.com/hfw/dumper/index_idps.html) by PS3Xploit Team Features
+use [PS3 IDPS Dumper](http://ps3xploit.com/hfw/dumper/index_idps.html) to DUMP your IDPS ((by PS3Xploit Team))
 
 follow on twitter [HIASQ](https://twitter.com/HIASQ2)
